@@ -1,6 +1,6 @@
 Week 4 Progress Check
 ==================
-Contained in this repo is what Fran and Frank hope will become their new home page. Below are a list of tasks that cover the material we've gone over for the past three weeks. If you feel uncomfortable with any of these please see the learning resources under the task for help.
+Contained in this repo is the work that an independent developer did for Fran and Frank's restaurant. Unfortunately this developer wasn't able to complete the contract. Below is a list of tasks that will complete the contract. The tasks cover the material we've gone over for the past three weeks. If you feel uncomfortable with any of these please see the learning resources under the task for help.
 
 [Here is a link](http://bit.ly/fran-and-franks-diner) to how the finished site should look.
 
